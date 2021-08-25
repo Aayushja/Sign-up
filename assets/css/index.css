@@ -1,0 +1,78 @@
+.full{
+   
+    background-color: white;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid whitesmoke;
+    border-radius: .5em;
+    margin:100px 550px ;
+}
+
+
+#textfield{
+     padding:6px 0px 6px 20px;
+     margin-bottom: 5px;
+}
+
+#text{
+    padding:6px 0px 6px 20px;
+    margin-bottom: 5px;
+    width: 91%;
+    text-align: left;
+}
+
+body{
+
+    background-image: url(../img/alex-haney-AGqzy-Uj3s4-unsplash.jpg);
+    background-position: center;
+    backdrop-filter: blur(5px);
+}
+
+
+#btn{
+    padding:10px 40px 10px 40px;
+    background-color:green;
+    font-size: 15px;
+    border-radius: 10px 10px 10px 10px;
+    border: none;
+    margin-left: 110px;
+    margin-right: 110px;
+    color: white;
+  }
+
+  h6{
+      color: grey;
+  }
+
+.G{
+    display: inline-block;
+}
+
+.dob{
+    display: inline-block;
+}
+#Days{
+    width: 32%;
+    height: 30px;
+}
+#Month{
+    width: 32%;
+    height: 30px;
+}
+#Year{
+    width: 31%;
+    height: 30px;
+}
+.date{
+    margin-top: -10px;
+}
+.gen{
+    margin-top: -10px;
+}
+.container{
+    border: 1px solid grey;
+    margin-left: 2px;
+    margin-right: 5px;
+    padding:4px 24px 4px 24px;
+}
